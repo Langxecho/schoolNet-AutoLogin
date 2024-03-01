@@ -36,7 +36,7 @@ chrome驱动 [下载地址](https://googlechromelabs.github.io/chrome-for-testin
 
 ## FINALL
 
-打包为exe之后你可以设定windowws计划任务,或者设为开机后自启
+打包为exe之后你可以设定windowws计划任务https://developer.aliyun.com/article/185003,或者设为开机后自启
 
 **But**当我把这个脚本推荐给我的朋友时，他们却认为打开电脑时手动登录一下校园网并不是多难的事
 
